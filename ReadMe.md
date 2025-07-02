@@ -22,6 +22,8 @@ Elements needed:
 * ML Algo that can recommend jobs.
 
 
+* Some LLM wrapper that can fill out the jop applications for you when u swipe right
+
 
 
 
